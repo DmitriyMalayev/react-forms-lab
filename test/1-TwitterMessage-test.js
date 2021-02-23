@@ -19,6 +19,7 @@ describe("<TwitterMessage />", () => {
       );
     });
   });
+  
 
   describe("Character counter", () => {
     it("should show the remaining characters counter", () => {
